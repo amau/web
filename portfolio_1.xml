@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+	<settings>
+		<show_categories>on</show_categories> <!-- on/off -->
+		<all_text>ALL</all_text>  <!-- displayed before the categories -->
+		<animation_speed>800</animation_speed>
+		<animation_easing>easeOutExpo</animation_easing>
+		<items_per_page>12</items_per_page>	</settings>
+
+	<categories>
+		<category id="uk">Surrey + Central Saint Martins</category>
+		<category id="graphic">Print</category>
+		<category id="web">Web + Media</category>
+		<category id="photo">Photography</category>
+		<category id="art">Art works</category>
+		<category id="student">My Students</category>
+
+	</categories>
+
+	<items>
+		<item>
+			<thumbnail>images/uk_eye_thum.jpg</thumbnail>
+			<preview>images/uk_eye.jpg</preview>
+			<category>uk,graphic</category>
+			<description>redesign eye magazine | DandAD in the book award</description>
+		</item>
+		<item>
+			<thumbnail>images/uk_surrey_thum.jpg</thumbnail>
+			<preview>uk_surrey.html</preview>
+			<category>uk,web</category>
+			<description>The Surrey institute of Art and Design CD-rom | surrey</description>
+		</item>
+		<item>
+			<thumbnail>images/uk_wong_thum.jpg</thumbnail>
+			<preview>images/uk_wong.jpg</preview>
+			<category>uk,graphic</category>
+			<description>Conversation in Wong Kei restaurant | csm</description>
+		</item>
+				<item>
+			<thumbnail>images/uk_hybrid_thum.jpg</thumbnail>
+			<preview>images/uk_hybrid.jpg</preview>
+			<category>uk,graphic</category>
+			<description>Hybrid religion images | csm</description>
+		</item>
+					<item>
+			<thumbnail>images/uk_wl99_thum.jpg</thumbnail>
+			<preview>uk_wl99.html</preview>
+			<category>uk,web</category>
+			<description>Leisure Explorer 99 |csm</description>
+		</item>
+		<item>
+			<thumbnail>images/web_cyd_thum.jpg</thumbnail>
+			<preview>web_cyd.html</preview>
+			<category>web</category>
+			<description>www.cyd.hk</description>
+		</item>
+		<item>
+			<thumbnail>images/web_zenana_thum.jpg</thumbnail>
+			<preview>web_zenana.html</preview>
+			<category>web</category>
+			<description>www.zenana.hk</description>
+		</item>
+		
+		<item>
+			<thumbnail>images/web_muse_thum.jpg</thumbnail>
+			<preview>web_muse.html</preview>
+			<category>web</category>
+			<description>www.musemotion.org</description>
+		</item>
+		<item>
+			<thumbnail>images/print_va_thum.jpg</thumbnail>
+			<preview>print_vashowcase.html</preview>
+			<category>graphic</category>
+			<description>Visual Arts Showcase</description>
+		</item>
+		<item>
+			<thumbnail>images/print_pop_thum.jpg</thumbnail>
+			<preview>images/print_pop.jpg</preview>
+			<category>graphic</category>
+			<description>pop art in hk alternative metaphor</description>
+		</item>
+				<item>
+			<thumbnail>images/print_startv_thum.jpg</thumbnail>
+			<preview>images/print_startv.jpg</preview>
+			<category>graphic</category>
+			<description>Star TV Report 03 | HKDA Award </description>
+		</item>
+				<item>
+			<thumbnail>images/img1b.jpg</thumbnail>
+			<preview>student_home.html</preview>
+			<category>student</category>
+			<description>Homeless 宿命 by Chan Tsam-wai</description>
+		</item>
+		<item>
+			<thumbnail>images/student_bus_thum.jpg</thumbnail>
+			<preview>student_bus.html</preview>
+			<category>student</category>
+			<description>Life is like a bus by Fish Chan</description>
+		</item>
+				<item>
+			<thumbnail>images/web_amm_thum.jpg</thumbnail>
+			<preview>web_amm.html</preview>
+			<category>web</category>
+			<description>anothermountainman web </description>
+		</item>
+			<item>
+			<thumbnail>images/web_vis_thum.jpg</thumbnail>
+			<preview>web_vis.html</preview>
+			<category>web</category>
+			<description>vis music video production web </description>
+		</item>
+		<item>
+			<thumbnail>images/web_zenter_thum.jpg</thumbnail>
+			<preview>web_zenter.html</preview>
+			<category>web</category>
+			<description>zenter web</description>
+		</item>
+				<item>
+			<thumbnail>images/web_allen_thum.jpg</thumbnail>
+			<preview>web_allen.html</preview>
+			<category>web</category>
+			<description>allen lam web</description>
+		</item>
+			<item>
+			<thumbnail>images/web_ssa_thum.jpg</thumbnail>
+			<preview>web_ssa.html</preview>
+			<category>web</category>
+			<description>07 shanghai street artspace web</description>
+		</item>
+			
+									<item>
+			<thumbnail>images/web_mmi_thum.jpg</thumbnail>
+			<preview>web_mmi.html</preview>
+			<category>web</category>
+			<description>multimedia interactive guide | mm.amau.com | HKIEd</description>
+		</item>
+			
+			
+			
+			
+			
+			
+			
+			
+
+
+			<item>
+			<thumbnail>images/web_jppro_thum.jpg</thumbnail>
+			<preview>web_jppro.html</preview>
+			<category>web</category>
+			<description>JP production house</description>
+		</item>
+
+					<item>
+			<thumbnail>images/art_edge_thum.jpg</thumbnail>
+			<preview>art_edge.html</preview>
+			<category>art</category>
+			<description>The edge of the world 海角天涯</description>
+		</item>
+			<item>
+			<thumbnail>images/photo_self_thum.jpg</thumbnail>
+			<preview>images/photo_self.jpg</preview>
+			<category>photo</category>
+			<description>Self portrait</description>
+		</item>
+			<item>
+			<thumbnail>images/photo_friend_thum.jpg</thumbnail>
+			<preview>images/photo_friend.jpg</preview>
+			<category>photo</category>
+			<description>Friend portrait</description>
+		</item>
+			<item>
+			<thumbnail>images/photo_computer_thum.jpg</thumbnail>
+			<preview>images/photo_computer.jpg</preview>
+			<category>photo</category>
+			<description>Computer portrait</description>
+		</item>
+			<item>
+			<thumbnail>images/photo_star_thum.jpg</thumbnail>
+			<preview>images/photo_star.jpg</preview>
+			<category>photo</category>
+			<description>Starry night</description>
+		</item>
+					<item>
+			<thumbnail>images/print_artspace_thum.jpg</thumbnail>
+			<preview>print_artspace.html</preview>
+			<category>graphic</category>
+			<description>Artspace magazine</description>
+		</item>
+							<item>
+			<thumbnail>images/print_ied_thum.jpg</thumbnail>
+			<preview>images/print_ied.jpg</preview>
+			<category>graphic</category>
+			<description>Powering Education New Branding Position</description>
+		</item>
+							<item>
+			<thumbnail>images/art_potato_thum.jpg</thumbnail>
+			<preview>art_potato.html</preview>
+			<category>art</category>
+			<description>Good Take in Sweet Potato Bay |
+			 JC Point to Point</description>
+		</item>
+									<item>
+			<thumbnail>images/art_atv_thum.jpg</thumbnail>
+			<preview>images/art_atv.jpg</preview>
+			<category>art</category>
+			<description>Ruins atv | WOOFERTEN </description>
+		</item>
+											<item>
+			<thumbnail>images/art_tung_thum.jpg</thumbnail>
+			<preview>images/art_tung.jpg</preview>
+			<category>art</category>
+			<description>Tung Choi Street | WOOFERTEN </description>
+		</item>
+													<item>
+			<thumbnail>images/art_ruins1_thum.jpg</thumbnail>
+			<preview>images/art_ruins1.jpg</preview>
+			<category>art</category>
+			<description>Ruins of emptiness | Hong Kong Arts Centre 30th Anniversary Award</description>
+		</item>
+		<item>
+			<thumbnail>images/student_photo_thum.jpg</thumbnail>
+			<preview>images/student_photo.jpg</preview>
+			<category>student</category>
+			<description>Student photography Ghost</description>
+			</item>
+			
+		<item>
+			<thumbnail>images/art_ruins2_thum.jpg</thumbnail>
+			<preview>images/art_ruins2.jpg</preview>
+			<category>art</category>
+			<description>Sadness units of measurement | Shanghai Street Artspace</description>
+		</item>
+				<item>
+			<thumbnail>images/art_neon_thum.jpg</thumbnail>
+			<preview>images/art_neon.jpg</preview>
+			<category>art</category>
+			<description>Neon exhibition | Shanghai Street Artspace</description>
+		</item>
+			<item>
+			<thumbnail>images/art_fortune_thum.jpg</thumbnail>
+			<preview>art_fortune.html</preview>
+			<category>art</category>
+			<description>Fortune telling exhibition | Shanghai Street Artspace</description>
+		</item>
+					<item>
+			<thumbnail>images/art_street_thum.jpg</thumbnail>
+			<preview>images/art_street.jpg</preview>
+			<category>art</category>
+			<description>Street life of cantonese opera singers | Shanghai Street Artspace</description>
+		</item>
+							<item>
+			<thumbnail>images/student_logo_thum.jpg</thumbnail>
+			<preview>images/student_logo.jpg</preview>
+			<category>student</category>
+			<description>Logo design by students | Visual Communication course</description>
+		</item>
+					<item>
+			<thumbnail>images/print_muse_thum.jpg</thumbnail>
+			<preview>print_muse.html</preview>
+			<category>graphic</category>
+			<description>Twirling haze | musemotion </description>
+		</item>
+			<item>
+			<thumbnail>images/print_ied2_thum.jpg</thumbnail>
+			<preview>images/print_ied2.jpg</preview>
+			<category>graphic</category>
+			<description>Promotion leaflet | HKIEd </description>
+		</item>
+			<item>
+			<thumbnail>images/print_artspace1_thum.jpg</thumbnail>
+			<preview>images/print_artspace1.jpg</preview>
+			<category>graphic</category>
+			<description>Blue and black exhibition | Artspace </description>
+		</item>
+			<item>
+			<thumbnail>images/uk_nspcc_thum.jpg</thumbnail>
+			<preview>images/uk_nspcc.jpg</preview>
+			<category>uk,graphic</category>
+			<description>National Society for the Prevention of Cruelty to Children |surrey</description>
+		</item>
+			<item>
+			<thumbnail>images/uk_rambles_thum.jpg</thumbnail>
+			<preview>images/uk_rambles.jpg</preview>
+			<category>uk,graphic</category>
+			<description>Ramblers Club UK | surrey</description>
+		</item>
+			<item>
+			<thumbnail>images/uk_grad_thum.jpg</thumbnail>
+			<preview>images/uk_grad.jpg</preview>
+			<category>uk,graphic</category>
+			<description>98 Degree Graduation Show Poster | surrey</description>
+		</item>
+			<item>
+			<thumbnail>images/uk_cam_thum.jpg</thumbnail>
+			<preview>images/uk_cam.jpg</preview>
+			<category>uk,graphic</category>
+			<description>Royal Sosiety of Art Project - Celebrate the City | surrey</description>
+		</item>
+			<item>
+			<thumbnail>images/print_ocean_thum.jpg</thumbnail>
+			<preview>images/print_ocean.jpg</preview>
+			<category>graphic</category>
+			<description>Ocean Park annual report</description>
+		</item>
+			<item>
+			<thumbnail>images/print_lib_thum.jpg</thumbnail>
+			<preview>images/print_lib.jpg</preview>
+			<category>graphic</category>
+			<description>Central library new identity pitching</description>
+		</item>
+			<item>
+			<thumbnail>images/web_903_thum.jpg</thumbnail>
+			<preview>web_903.html</preview>
+			<category>web</category>
+			<description>903 Club</description>
+		</item>
+			<item>
+			<thumbnail>images/uk_asu_thum.jpg</thumbnail>
+			<preview>uk_asu.html</preview>
+			<category>uk,web</category>
+			<description>Apple Students Club | surrey</description>
+		</item>
+	</items>
+			<item>
+			<thumbnail>images/print_francis_thum.jpg</thumbnail>
+			<preview>print_francis.html</preview>
+			<category>graphic</category>
+			<description>Francis Yu identity design</description>
+		</item>
+						<item>
+			<thumbnail>images/photo_dww_thum.jpg</thumbnail>
+			<preview>images/photo_dww.jpg</preview>
+			<category>photo</category>
+			<description>Dance with wind | musemotion</description>
+		</item>
+								<item>
+			<thumbnail>images/photo_lake_thum.jpg</thumbnail>
+			<preview>images/photo_lake.jpg</preview>
+			<category>photo</category>
+			<description>Blue Lake | musemotion</description>
+		</item>
+				
+					<item>
+			<thumbnail>images/web_instant_thum.jpg</thumbnail>
+			<preview>web_instant.html</preview>
+			<category>web</category>
+			<description>instant dict web</description>
+		</item>
+
+</portfolio>

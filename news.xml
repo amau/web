@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+	<settings>
+		<items_per_page>3</items_per_page>
+		<animation_speed>500</animation_speed>
+		<animation_easing>easeOutExpo</animation_easing>
+	</settings>
+
+
+	<posts>
+		<post>
+			<ptitle>Ruin's word</ptitle>
+			<thumbnail>images/text_ruins.jpg</thumbnail>
+			<small_thumbnail>images/text_ruins_thum.jpg</small_thumbnail>
+			<category>Art Work</category>
+			<date>July 12 2006</date>
+			<author>amau</author>
+			<content><![CDATA[
+			廢墟一詞，直指在社會發展下所遺棄的空間，文明的遺跡。在理性的角度上，廢墟是建築的斷壁殘垣，災害現場又或者是大自然裡的破敗景象。政府機構應不會容許有廢墟的出現，因為它代表著資源浪費以及政策失誤上的種各種問題。然而，在感性的角度上，它所帶給我們的是一種複雜的情懷，一種可產生的美感。
+以廢墟為題，就是要在這一種能引發思想及產生情感的空間，進行仔細的探索，務求以一種不浪費社會資源的社區藝術(Community Arts)。
+
+以選擇照片作為表現情感的媒介是因為照片可令人有刺傷的感覺，而這種刺痛對我來說，是傷感的。這些感覺是私人的，亦是所言的情感。然而，若把這些影像作公開展覽，因為照片上的影像多是我們的集體回憶，如學校場所或公共空間，讀者不難被影像引領到知識層面的層次(知面)，從而產生回憶，引發思想。
+
+</a>
+			]]></content>
+		</post>		
+		
+		<post>
+			<ptitle>Tung Choi Street</ptitle>
+		
+	<thumbnail>images/text_tung.jpg</thumbnail>
+			<small_thumbnail>images/text_tung_thum.jpg</small_thumbnail>
+			<category>Art Work</category>
+			<date>Oct 1st 2009</date>
+			<author>amau</author>
+			<content><![CDATA[
+			要思考的就是那塊桌面玻璃以下與及玻璃上電腦屏幕中的桌面背景。
+玻璃以下的事大多是不想忘記，要時常提醒的東西，也許是祖母後生時的青春玉照，也許是親戚朋友的通訊資料。而電腦中的桌面卻是水著女優或是可愛小狗，要掛的不是親戚朋友，也不會是童年照片，而是那些離我們很遠的心頭好，也許是我們的夢。
+在這個社區長大的我，對現在的景觀相當陌生。走入朗豪坊，眺望旺角的舊區屋頂，才令我想起現在站立的地方正是我16歲時跟童軍隊長一起燒烤的唐樓屋頂。我住的地方沒有大廈名稱但有48A的代號，而母親就在50號的梯角售賣銀器獎杯，家就在樓梯直上6樓，在金漢公寓的樓上。我不知道這個社區對我的成長有多大的影響，但陪我長大的人和事依然記憶猶新。
+有些後悔沒有替媽媽的店鋪在結束前拍下一張照片，也很後悔沒有替胸圍檔檔主的女兒拍下一張照片，還有教我買名牌牛仔褲的阿NO。 沒有照片，很難說話。這次我想以不同形狀的相片，在玻璃下重組我的童年遊歷。而在電腦中的桌面上，我會把我的街童遊歷路徑展示出來，以供上網人仕參考。</a>
+			]]></content>
+		</post>
+	</posts>
+</news>
